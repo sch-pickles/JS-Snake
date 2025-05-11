@@ -1,0 +1,54 @@
+.main_div {
+	margin: auto;
+	width: 40%;
+	padding: 0px;
+	display: block;
+}
+
+p1 {
+	margin-top: 0%;
+	margin-right: 4%;
+	font-size: 25px;
+	
+	font-family: "Times New Roman";
+}
+
+body {
+	height: 100%;
+	overflow-y: hidden;
+	background-color: #B2BEB5;
+}
+
+button {
+	background-color: #4caf50;
+	
+	position: static;
+	text-transform: uppercase;
+	
+	margin-left: 35%;
+	margin-right: 5%;
+	margin-top: 0%;
+	
+	margin-bottom: 1%;
+	
+	width: 130px;
+	height: 35px;
+}
+
+p2 {
+	text-transform: uppercase;
+	color: #006400;
+	
+	margin-right: 15%;
+	margin-left: 30%;
+	
+	margin-top: 5%;
+}
+
+p3 {
+	text-transform: uppercase;
+	color: #4b0082;
+	
+	margin-top: 5%;
+	margin-left: 4%;
+}
