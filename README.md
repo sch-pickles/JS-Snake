@@ -1,5 +1,6 @@
 ## Credits
 Code developed by Kareem Pickles
+
 Video explainer made by S.A
 
 ## How Was The Program Designed?
